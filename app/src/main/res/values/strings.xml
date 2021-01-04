@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mash Musketeers</string>
+    <string name="Stats">Lv 0 / 0 XP / 0 Taps</string>
+    <string name="tapMe">TAP ME</string>
+    <string name="start">Start</string>
+    <string name="restart">Restart</string>
+    <string name="time_left">Time Left: 00:00</string>
+</resources>
